@@ -1,0 +1,10 @@
+.git
+.gitignore
+screenshots/
+terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.pem
+.env
+.env.*
